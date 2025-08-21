@@ -1,5 +1,6 @@
-\# 🏥 ED Wait Time Prediction – Machine Learning for Healthcare
+<h1>📑 ED Wait Time Prediction – Machine Learning for Healthcare</h1>
 
+**
 
 
 Predicting Emergency Department (ED) wait times using data analytics and machine learning to improve hospital efficiency and patient care.
@@ -10,7 +11,9 @@ Predicting Emergency Department (ED) wait times using data analytics and machine
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
+
+
 
 
 
@@ -20,7 +23,8 @@ By analyzing hospital characteristics from \[Centers for Medicare \& Medicaid Se
 
 
 
-\*\*Key Steps:\*\*
+**Key Steps:**
+
 
 \- ✔️ Data Preprocessing \& Cleaning  
 
@@ -36,7 +40,8 @@ By analyzing hospital characteristics from \[Centers for Medicare \& Medicaid Se
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 
 
 
@@ -56,7 +61,8 @@ By analyzing hospital characteristics from \[Centers for Medicare \& Medicaid Se
 
 
 
-\## 📊 Dataset
+## 📊 Dataset
+
 
 
 
@@ -72,7 +78,8 @@ By analyzing hospital characteristics from \[Centers for Medicare \& Medicaid Se
 
 
 
-\## 🔬 Methodology
+## 🔬 Methodology
+
 
 
 
@@ -90,21 +97,17 @@ By analyzing hospital characteristics from \[Centers for Medicare \& Medicaid Se
 
 
 
-\## 🤖 Model Performance
+## 🤖 Model Performance
 
 
 
 | Model                  | RMSE | MAE | R²  |
-
 |-------------------------|------|-----|-----|
-
 | 📈 Linear Regression    | 12.4 | 9.8 | 0.65|
-
 | 🌳 Decision Tree        | 10.7 | 8.1 | 0.71|
-
 | 🌲 Random Forest        | 8.6  | 6.9 | 0.82|
-
 | 🚀 Gradient Boosting    | 8.3  | 6.7 | 0.84|
+
 
 
 
@@ -116,7 +119,8 @@ By analyzing hospital characteristics from \[Centers for Medicare \& Medicaid Se
 
 
 
-\## 💡 Key Insights
+## 💡 Key Insights
+
 
 
 
@@ -134,25 +138,20 @@ By analyzing hospital characteristics from \[Centers for Medicare \& Medicaid Se
 
 
 
-\## 📂 Folder Structure
+## 📂 Folder Structure
 
 
-
-```bash
 
 📂 ED-Wait-Time-Prediction
-
 ├── 📁 Data/         # Raw and processed datasets (CMS sources)  
-
 ├── 📁 Images/       # Visualizations and plots  
-
 ├── 📁 Notebook/     # Jupyter notebooks with data analysis and ML models  
-
 ├── 📁 Report/       # Final report (PDF, DOCX)  
-
 └── 📄 README.md     # Project documentation  
 
-⚡ How to Run the Project
+
+## ⚡ How to Run the Project
+
 
 bash
 
@@ -194,7 +193,8 @@ jupyter notebook
 
 
 
-## 📢 Connect With Me  
+## 📢 Connect With Me
+
 🔗 **GitHub**: [pathakgovin](https://github.com/pathakgovin)  
 🔗 **LinkedIn**: [Govinda P.](https://www.linkedin.com/in/govinda-p-b61887268/)  
 
